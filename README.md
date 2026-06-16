@@ -47,6 +47,16 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sharmi128&show_icons=true)
 
+## 🔥 GitHub Streak
+
+![Streak](https://streak-stats.demolab.com?user=sharmi128)
+
 ## 👀 Visitor Count
 
 ![Visitors](https://komarev.com/ghpvc/?username=sharmi128&color=blue)
+
+## 🏆 Certifications
+
+- NPTEL Certificates
+- Internship Certificates
+- Workshop Certificates
