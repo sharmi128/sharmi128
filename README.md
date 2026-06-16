@@ -55,6 +55,10 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=sharmi128&color=blue)
 
+## 👾 Pacman Game
+
+![Pacman Game](https://raw.githubusercontent.com/sharmi128/sharmi128/output/pacman.svg)
+
 ## 🏆 Certifications
 
 - NPTEL Certificates
