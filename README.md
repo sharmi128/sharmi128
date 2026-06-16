@@ -43,6 +43,13 @@
 🌏 Dreamscape of China
 
 
+## 🏆 Certifications
+
+- NPTEL Certificates
+- Internship Certificates
+- Workshop Certificates
+
+
 ## 📈 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sharmi128&show_icons=true)
@@ -58,12 +65,6 @@
 ## 👾 Pacman Game
 
 ![Pacman Game](https://raw.githubusercontent.com/sharmi128/sharmi128/output/pacman.svg)
-
-## 🏆 Certifications
-
-- NPTEL Certificates
-- Internship Certificates
-- Workshop Certificates
 
 - ## 📫 Contact
 
