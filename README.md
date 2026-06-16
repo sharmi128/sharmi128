@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Sharmi
 
-<!--
-**sharmi128/sharmi128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science and Engineering Student
 
-Here are some ideas to get you started:
+💻 Passionate about Web Development, Python, SQL and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Data Science and Machine Learning
+
+🚀 Building real-world projects using Web Technologies and Artificial Intelligence
+
+---
+
+## 💻 Skills
+
+- Python
+- SQL
+- Pandas
+- HTML
+- CSS
+- Machine Learning
+- Git & GitHub
+
+---
+
+## 🌍 Languages
+
+- Tamil (Native)
+- English (Intermediate)
+- Hindi (Basic)
+
+---
+
+## 🚀 Featured Projects
+
+🛒 Local Shop Products Marketplace
+
+🎓 College Students ERP System
+
+🧠 Cancer Detection using Deep Learning
+
+✋ Gesture Recognition System
+
+🌏 Dreamscape of China
