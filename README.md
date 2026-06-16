@@ -46,3 +46,7 @@
 ## 📈 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sharmi128&show_icons=true)
+
+## 👀 Visitor Count
+
+![Visitors](https://komarev.com/ghpvc/?username=sharmi128&color=blue)
