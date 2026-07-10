@@ -12,7 +12,7 @@
 
 ## 💻 Skills
 
-- Python
+- Java
 - SQL
 - Pandas
 - HTML
