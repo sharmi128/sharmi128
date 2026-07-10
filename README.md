@@ -49,11 +49,6 @@
 - Internship Certificates
 - Workshop Certificates
 
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmi128&show_icons=true&theme=tokyonight)
-
 ## 🔥 GitHub Streak
 
 ![Streak](https://streak-stats.demolab.com?user=sharmi128)
